@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listacursos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ejercicio6.xsd">
+    <curso>
+        <alumno>
+            <DNI>254686</DNI>
+            <nombre>Juan Jose</nombre>
+            <apellido>Florez Rodriguez</apellido>
+            <listaAsignaturas>
+                <asignatura codigo="2486">
+                    <nombre>Fisica</nombre>
+                    <profesor>
+                        <NRP>356845</NRP>
+                        <nombre>Daniel</nombre>
+                        <apellido>Franco</apellido>
+                        <segundoApellido>Montoya</segundoApellido>
+                    </profesor>
+                </asignatura>
+                <asignatura codigo="6842">
+                    <nombre>Biologia</nombre>
+                    <profesor>
+                        <NRP>658426</NRP>
+                        <nombre>Juan</nombre>
+                        <apellido>Franco</apellido>
+                    </profesor>
+                </asignatura>
+            </listaAsignaturas>
+        </alumno>
+    </curso>
+</listacursos>
